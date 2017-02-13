@@ -10,3 +10,4 @@ Package: etherpad-lite-tables2
 Architecture: all
 Depends: etherpad-lite
 Description: Etherpad Lite - Module tables2
+ Installs the ep_tables plugin into the existing etherpad-lite installation.
