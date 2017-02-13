@@ -1,0 +1,12 @@
+Source: etherpad-lite-tables2
+Section: misc
+Priority: extra
+Maintainer: Felix Jacobi <felix.jacobi@stsbl.de>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://github.com/quenenni/ep_tables2
+
+Package: etherpad-lite-tables2
+Architecture: all
+Depends: etherpad-lite
+Description: Etherpad Lite - Module tables2

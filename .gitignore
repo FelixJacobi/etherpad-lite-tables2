@@ -1,0 +1,5 @@
+debian/etherpad-lite-tables2/*
+debian/etherpad-lite-tables2.substvars
+debian/etherpad-lite-tables2.debhelper.log
+debian/files
+debian/debhelper-build-stamp

@@ -1,0 +1,8 @@
+ep.json    	/usr/share/etherpad-lite/node_modules/ep_tables2/     
+export2html.js  /usr/share/etherpad-lite/node_modules/ep_tables2/
+LICENSE         /usr/share/etherpad-lite/node_modules/ep_tables2/
+locales/*       /usr/share/etherpad-lite/node_modules/ep_tables2/locales/
+package.json   	/usr/share/etherpad-lite/node_modules/ep_tables2/
+README          /usr/share/etherpad-lite/node_modules/ep_tables2/
+static/         /usr/share/etherpad-lite/node_modules/ep_tables2/static/
+templates/	/usr/share/etherpad-lite/node_modules/ep_tables2/templates/
