@@ -1,4 +1,4 @@
-etherpad-lite-tables2 (17.02.13+2) experimental; urgency=medium
+etherpad-lite-tables2 (0.2.13+2) experimental; urgency=medium
 
   * Fixed packaging again.
 
