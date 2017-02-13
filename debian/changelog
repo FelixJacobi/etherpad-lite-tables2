@@ -1,3 +1,9 @@
+etherpad-lite-tables2 (17.02.13+2) experimental; urgency=medium
+
+  * Fixed packaging again.
+
+ -- Stadtteilschule Blankenese <repository@stsbl.de>  Mon, 13 Feb 2017 03:05:51 +0100
+
 etherpad-lite-tables2 (0.2.13+1) experimental; urgency=medium
 
   * Fixed packaging.
