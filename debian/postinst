@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # postinst script for etherpad-lite-tables2
 #
 # see: dh_installdeb(1)
@@ -20,6 +20,9 @@ set -e
 
 case "$1" in
     configure)
+        # register module via npm
+        $(cd /usr/share/etherpad-lite/node_modules/ && /usr/share/etherpad-lite/src/node_modules/.bin/npm install ep_tables2)
+         
     	/etc/init.d/etherpad-lite restart
     ;;
 
