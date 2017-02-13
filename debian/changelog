@@ -1,3 +1,9 @@
+etherpad-lite-tables2 (0.2.13+4) experimental; urgency=medium
+
+  * Fixed postinst and prerm.
+
+ -- Felix Jacobi <felix.jacobi@stsbl.de>  Mon, 13 Feb 2017 04:27:32 +0100
+
 etherpad-lite-tables2 (0.2.13+3) experimental; urgency=medium
 
   * Fixed changelog.

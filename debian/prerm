@@ -10,7 +10,7 @@ case "$1" in
         if [ -d "/usr/share/etherpad-lite/node_modules" ]
         then
         	# unregister module via npm
-          	$(cd /usr/share/etherpad-lite/node_modules && /usr/share/etherpad-lite/src/node_modules/.bin/npm uninstall ep_tables)
+          	$(cd /usr/share/etherpad-lite/node_modules && /usr/share/etherpad-lite/src/node_modules/.bin/npm uninstall ep_tables &> /dev/null)
         fi
     ;;
 
