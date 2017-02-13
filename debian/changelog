@@ -4,22 +4,22 @@ etherpad-lite-tables2 (0.2.13+3) experimental; urgency=medium
   * Fixed version.
   * Fixed module registeringFixed module registering..
 
- -- Stadtteilschule Blankenese <repository@stsbl.de>  Mon, 13 Feb 2017 04:13:50 +0100
+ -- Felix Jacobi <felix.jacobi@stsbl.de>  Mon, 13 Feb 2017 04:13:50 +0100
 
 etherpad-lite-tables2 (0.2.13+2) experimental; urgency=medium
 
   * Fixed packaging again.
 
- -- Felix Jacobi <repository@stsbl.de>  Mon, 13 Feb 2017 03:05:51 +0100
+ -- Felix Jacobi <felix.jacobi@stsbl.de>  Mon, 13 Feb 2017 03:05:51 +0100
 
 etherpad-lite-tables2 (0.2.13+1) experimental; urgency=medium
 
   * Fixed packaging.
 
- -- Felix Jacobi <repository@stsbl.de>  Mon, 13 Feb 2017 02:56:47 +0100
+ -- Felix Jacobi <felix.jacobi@stsbl.de>  Mon, 13 Feb 2017 02:56:47 +0100
 
 etherpad-lite-tables2 (0.2.13) experimental; urgency=low
 
   * Initial release.
 
- -- Felix Jacobi <repository@stsbl.de>  Mon, 13 Feb 2017 01:39:03 +0100
+ -- Felix Jacobi <felix.jacobi@stsbl.de>  Mon, 13 Feb 2017 01:39:03 +0100
