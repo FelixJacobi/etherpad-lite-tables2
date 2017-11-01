@@ -1,3 +1,10 @@
+etherpad-lite-tables2 (1:0.2.13) experimental; urgency=medium
+
+  * Integrate plugin files into package
+  * Fixed permissions
+
+ -- Felix Jacobi <felix.jacobi@iserv.eu>  Wed, 01 Nov 2017 23:00:17 +0100
+
 etherpad-lite-tables2 (0.2.13+6) experimental; urgency=medium
 
   * Use npm for installing.
