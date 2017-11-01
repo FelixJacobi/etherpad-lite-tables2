@@ -20,7 +20,7 @@ set -e
 
 case "$1" in
     configure)
-    	/etc/init.d/etherpad-lite restart
+    	invoke-rc.d etherpad-lite restart
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
