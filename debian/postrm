@@ -21,12 +21,6 @@ set -e
 
 case "$1" in
     purge|remove)
-        if [ -d "/usr/share/etherpad-lite/node_modules" ]
-	then
-	  # unregister module via npm
-          (cd /usr/share/etherpad-lite/node_modules && /usr/share/etherpad-lite/src/node_modules/.bin/npm uninstall ep_tables) 
-	fi	
-     
         if [ -x "/etc/init.d/etherpad-lite" ]
 	then
     		/etc/init.d/etherpad-lite restart
